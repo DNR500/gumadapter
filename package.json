@@ -7,6 +7,7 @@
     "email": "muazkh@gmail.com",
     "url": "http://www.muazkhan.com/"
   },
+  "main": "./gumadapter.js",
   "description": "getUserMedia shim/polyfill via: https://github.com/webrtc/adapter",
   "repository": {
     "type": "git",
